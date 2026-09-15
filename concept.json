@@ -1,0 +1,11 @@
+{
+  "slug": "viral-mint-card",
+  "name": "Viral Mint Card",
+  "kind": "token",
+  "description": "Generate a clean social card and verifiable launch-facts payload for any mint.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
