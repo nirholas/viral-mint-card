@@ -1,0 +1,26 @@
+# viral-mint-card
+
+> Generate a clean social card and verifiable launch-facts payload for any mint.
+
+viral-mint-card is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md): install, usage and reference
+- [Why this exists](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#why-this-exists)
+- [Working features](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#working-features)
+- [Status](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#status)
+- [Run](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#run)
+- [Transaction v1 rules](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#transaction-v1-rules)
+- [License](https://github.com/nirholas/viral-mint-card/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/viral-mint-card/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/viral-mint-card/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/viral-mint-card)
+- [Issues](https://github.com/nirholas/viral-mint-card/issues)
+- [Discussions](https://github.com/nirholas/viral-mint-card/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "viral-mint-card"
+abstract: "Generate a clean social card and verifiable launch-facts payload for any mint."
+repository-code: "https://github.com/nirholas/viral-mint-card"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
