@@ -8,7 +8,7 @@ Generate a clean social card and verifiable launch-facts payload for any mint.
 
 - Source: https://github.com/nirholas/viral-mint-card
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
